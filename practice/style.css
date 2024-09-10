@@ -1,0 +1,9 @@
+h1 {
+    color:blue;
+}
+h2 {
+    color:rgb(255, 10, 10); /*red, green, blue */
+}
+h3 {
+    color:#ff9900; /*#rrggbb*/
+}
